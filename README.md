@@ -1,2 +1,2 @@
 # Python-For-Pen-Testers
-Few Lines Code Easy TO Understand
+Few Lines of Code Easy TO Understand
